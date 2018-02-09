@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ExampleTest	Feature/ExampleTest.php	/^class ExampleTest extends TestCase$/;"	c
+ExampleTest	Unit/ExampleTest.php	/^class ExampleTest extends TestCase$/;"	c
+TestCase	TestCase.php	/^abstract class TestCase extends BaseTestCase$/;"	c
+app	CreatesApplication.php	/^        $app = require __DIR__.'\/..\/bootstrap\/app.php';$/;"	v
+createApplication	CreatesApplication.php	/^    public function createApplication()$/;"	f
+response	Feature/ExampleTest.php	/^        $response = $this->get('\/');$/;"	v
+testBasicTest	Feature/ExampleTest.php	/^    public function testBasicTest()$/;"	f
+testBasicTest	Unit/ExampleTest.php	/^    public function testBasicTest()$/;"	f
