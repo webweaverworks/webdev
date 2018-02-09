@@ -1,13 +1,13 @@
+/home/webdev/.git/config
+/home/webdev/README.md
 /home/webdev/.git/index
 /home/webdev/.git/HEAD
 /home/webdev/.git/description
 /home/webdev/server.php
 /home/webdev/readme.md
-/home/webdev/README.md
 /home/webdev/.gitignore
 /home/webdev/.NERDTreeBookmarks
 /home/webdev/.gitattributes
-/home/webdev/.git/config
 /home/webdev/public_html/css/app.css
 /home/webdev/public_html/css/blog.cssbk
 /home/webdev/public_html/css/blog.css
